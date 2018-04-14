@@ -1,0 +1,2 @@
+# PAGES.HTML
+Blogger eklentileri
